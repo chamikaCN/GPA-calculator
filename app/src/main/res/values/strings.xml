@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">GPA cal</string>
+    <string name="input_TextView1">Semester</string>
+    <string name="input_TextView2">No of modules</string>
+    <string name="input_EditText2Hint">(GPA only)</string>
+    <string name="input_EditText1Hint">(1 to 8)</string>
+    <string name="input_Button1Text">OK</string>
+    <string name="input_Button2Text">Save</string>
+    <string name="results_textview1Text">Your Semester GPA for this semester is whatever you want</string>
+    <string name="results_textview2Text">GPA</string>
+    <string name="results_buttonText">Back</string>
+    <string name="input_Button3Text">Calculate</string>
+    <string name="input_Button4Text">Erase last entry</string>
+    <string name="points_saveButtonText">Save</string>
+    <string name="points_plotButtonText">Plot</string>
+    <string name="points_editTextHint">GPA value</string>
+    <string name="drawer_calculate_text">Calculate GPA</string>
+    <string name="drawer_plot_text">Plot Graph</string>
+    <string name="drawer_settings">Settings</string>
+    <string name="Navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="Navigation_drawer_close">Close Navigation Drawer</string>
+    <string-array name="Credits">
+        <item>5.0</item>
+        <item>4.0</item>
+        <item>3.0</item>
+        <item>2.5</item>
+        <item>2.0</item>
+        <item>1.5</item>
+        <item>1.0</item>
+        <item>0.5</item>
+    </string-array>
+    <string-array name="Grades">
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D</item>
+        <item>I-we</item>
+        <item>I-ca</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="Semesters">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,4 @@
+#Thu Aug 23 15:44:28 IST 2018
+base.0=F\:\\Learning\\Android studio projects\\GPAcal\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view" >
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/drawer_menu_Calculate_GPA"
+            android:icon="@drawable/add_box_black_48x48"
+            android:title="@string/drawer_calculate_text" />
+
+        <item android:id="@+id/drawer_menu_Plot_Graph"
+            android:icon="@drawable/insert_chart_black_48x48"
+            android:title="@string/drawer_plot_text" />
+
+        <item android:id="@+id/drawer_menu_Settings"
+            android:icon="@drawable/settings_applications_black_48x48"
+            android:title="@string/drawer_settings" />
+    </group>
+
+</menu>

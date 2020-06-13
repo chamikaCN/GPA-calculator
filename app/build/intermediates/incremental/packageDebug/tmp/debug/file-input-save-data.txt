@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Jun 13 17:54:23 IST 2020
+0.baseType=DIRECTORY
+0.base=F\:\\Learning\\Projects\\AndroidStudioProjects\\GPAcal\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
